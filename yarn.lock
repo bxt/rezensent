@@ -2766,16 +2766,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/babel__core@npm:7.1.16":
-  version: 7.1.16
-  resolution: "@types/babel__core@npm:7.1.16"
+"@types/babel__core@npm:7.1.17":
+  version: 7.1.17
+  resolution: "@types/babel__core@npm:7.1.17"
   dependencies:
     "@babel/parser": ^7.1.0
     "@babel/types": ^7.0.0
     "@types/babel__generator": "*"
     "@types/babel__template": "*"
     "@types/babel__traverse": "*"
-  checksum: 4a5f8c659082d0a43029b5e99b805615d2186b2c8e48d14ac9da0040e8ccffdfd2de0370c9a172ca2963d18ba682c78f3f8624dfe228c6c3c4cd08bde4596b57
+  checksum: 837a25db487272bc70f5d05891cf59eb1ef8a94c671ca92db0582e7753846e9ced1fee57703890d9d7baae1773930dc2495e2856d8d63b7e6dda7f6a9d6f4cb2
   languageName: node
   linkType: hard
 
@@ -7770,7 +7770,7 @@ fsevents@^2.3.2:
     "@babel/preset-typescript": 7.15.0
     "@octokit/types": ^6.12.2
     "@octokit/webhooks": 7.21.0
-    "@types/babel__core": 7.1.16
+    "@types/babel__core": 7.1.17
     "@types/babel__preset-env": 7.9.2
     "@types/common-tags": 1.8.1
     "@types/eventsource": 1.1.7
